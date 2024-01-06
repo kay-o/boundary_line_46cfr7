@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <rte>
+    <name>46cfr7.10.a boundary lines Eastport, ME to Cape Ann, MA.</name><extensions><opencpn:guid>41ab7124-bd22-4f32-9a9d-0c050d88ebf0</opencpn:guid><opencpn:viz>1</opencpn:viz><opencpn:planned_speed>6.00</opencpn:planned_speed><opencpn:time_display>PC</opencpn:time_display><gpxx:RouteExtension><gpxx:IsAutoNamed>false</gpxx:IsAutoNamed></gpxx:RouteExtension></extensions>
+    <rtept lat="44.935320641" lon="-67.010417972"><name>Kendall Head 46cfr7.10.a1</name><sym>diamond</sym><type>WPT</type><extensions><opencpn:guid>1b9cbd57-9ea5-479f-8a04-f29c05c5c5ee</opencpn:guid><opencpn:auto_name>1</opencpn:auto_name><opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" /></extensions></rtept>
+    <rtept lat="44.911935049" lon="-66.974678473"><name>listed coordinates 46cfr7.10.a2</name><sym>diamond</sym><type>WPT</type><extensions><opencpn:guid>3976b6fc-41cf-48dc-a321-3fe1630e98ae</opencpn:guid><opencpn:auto_name>1</opencpn:auto_name><opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" /></extensions></rtept>
+    <rtept lat="44.861512667" lon="-66.983179163"><name>listed coordinates near range marker 46cfr7.10.a3</name><sym>diamond</sym><type>WPT</type><extensions><opencpn:guid>7b458f36-277b-4e3f-afd8-33ce04948a42</opencpn:guid><opencpn:auto_name>1</opencpn:auto_name><opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" /></extensions></rtept>
+  </rte>
+  <rte>
+    <name>46cfr7.10.b boundary lines Eastport, ME to Cape Ann, MA.</name><extensions><opencpn:guid>1839e081-ff84-44be-b460-ecf21ab93403</opencpn:guid><opencpn:viz>1</opencpn:viz><opencpn:planned_speed>6.00</opencpn:planned_speed><opencpn:planned_departure>2024-01-05T23:58:35Z</opencpn:planned_departure><opencpn:time_display>PC</opencpn:time_display><gpxx:RouteExtension><gpxx:IsAutoNamed>false</gpxx:IsAutoNamed></gpxx:RouteExtension></extensions>
+    <rtept lat="44.815173333" lon="-66.950653333"><name>West Quoddy Head Light 46cfr7.10.b1</name><sym>diamond</sym><type>WPT</type><extensions><opencpn:guid>2a1251fc-3189-4006-a7ca-5b1d7d3ee792</opencpn:guid><opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FFFFFF" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" /></extensions></rtept>
+    <rtept lat="44.808333333" lon="-66.940000000"><name>Sail Rock Lighted Whistle Buoy “1” 46cfr7.10.b2</name><sym>diamond</sym><type>WPT</type><extensions><opencpn:guid>2cd5a422-fc15-4d41-8366-0e6d0f4a511d</opencpn:guid><opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FFFFFF" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" /></extensions></rtept>
+    <rtept lat="44.625000000" lon="-67.163333333"><name>Little River Lighted Whistle Buoy “2LR”46cfr7.10.b3</name><desc>Does this mark still exist? It's not listed this way on the 2023 light list (https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V1_2023.pdf)</desc><sym>diamond</sym><type>WPT</type><extensions><opencpn:guid>20637e7b-c809-4ecc-9fa7-097979690dc7</opencpn:guid><opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" /></extensions></rtept>
+    <rtept lat="44.24166666666667" lon="-67.95333333333333"><name>Frenchman Bay Approach Lighted Whistle Buoy “FB” 46cfr7.10.b4</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="43.968613" lon="-68.128337"><name>Mount Desert Light 46cfr7.10.b5</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="43.783473" lon="-68.855033"><name>Matinicus Rock Light 46cfr7.10.b6</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="43.764800" lon="-69.315828"><name>Monhegan Island Light 46cfr7.10.b7</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="43.526666666666666" lon="-70.09166666666667"><name>Portland Lighted Horn Buoy “P” 46cfr7.10.b8</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="43.121450" lon="-70.476422"><name>Boon Island Light 46cfr7.10.b9</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="42.631666666666664" lon="-70.52"><name>Cape Ann Lighted Whistle Buoy “2” 46cfr7.10.b10</name><sym>diamond</sym><type>WPT</type></rtept>
+  </rte>
+  <rte>
+    <name>46cfr7.15 boundary lines Massachusetts Bay, MA.</name>
+    <rtept lat="42.6317" lon="-70.52"><name>to import then combine with Cape Ann Lighted Whistle Buoy “2” 46cfr7.15.1</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="42.378333333333335" lon="-70.78333333333333"><name>Boston Lighted Horn Buoy “B” 46cfr7.15.2</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="42.062297" lon="-70.243018"><name>Race Point Light 46cfr7.15.3</name><sym>diamond</sym><type>WPT</type></rtept>
+  </rte>
+  <rte>
+    <name>WIP: 46cfr7.20 boundary lines Nantucket Sound, Vineyard Sound, Buzzards Bay, Narragansett Bay,
+      MA, Block Island Sound and easterly entrance to Long Island Sound, NY. Massachusetts Bay, MA.</name>
+    <rtept lat="41.601666666666664" lon="-69.85166666666667"><name>Waypoint 10 46cfr7</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="41.43333333333333" lon="-69.77"><name>Waypoint 11 46cfr7</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="40.57683333333333" lon="-73.75422222222222"><name>Waypoint 12 46cfr7</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="40.45" lon="-73.8"><name>Waypoint 13 46cfr7</name><sym>diamond</sym><type>WPT</type></rtept>
+    <rtept lat="40.396600000000005" lon="-73.99150000000001"><name>Waypoint 14 46cfr7</name><sym>diamond</sym><type>WPT</type></rtept>
+  </rte>
+</gpx>
